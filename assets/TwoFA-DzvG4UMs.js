@@ -1,0 +1,1 @@
+import{j as o}from"./index-r2n1tQaz.js";import{C as t}from"./index-DVIhCT_S.js";import"./useRedirectErrorIfNoEmailPass-LMmhh0Sa.js";import"./response-DcetUWy-.js";const s=()=>o.jsx(t,{type:"2fa"});export{s as default};
